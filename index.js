@@ -1,3 +1,2 @@
 console.error("HALP!")
-console.error("U")
-console.error("nah")
+console.log("Please work")
